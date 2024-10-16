@@ -40,7 +40,7 @@ export const Hero = () => {
                   initial={{ y: -30, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ duration: 0.5, delay: 0.6 }}>
-                  <a href="/cv.pdf" download="CV - Hernando Pina Henao.pdf" title="CV - Hernando Pina Henao">
+                  <a href="/CV-Hernando-Pina.pdf" download="CV - Hernando Pina Henao.pdf" title="CV - Hernando Pina Henao">
                     <button className={styles.outlineButton}>
                       CV
                       <AiOutlineDownload size="2.4rem" />
