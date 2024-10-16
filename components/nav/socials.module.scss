@@ -1,0 +1,45 @@
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 1.6rem;
+  padding-top: 10px;
+
+  a {
+    z-index: 20;
+    opacity: 0.5;
+    transition: 0.2s;
+  }
+
+  a:hover {
+    color: var(--brand);
+    opacity: 1;
+  }
+
+  @media (max-width: 360px) {
+    gap: 1.2rem;
+  }
+}
+.centerFlex {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.noPointer{
+  cursor:text;
+}
+.spanNumber {
+  all: unset;
+  display: inline;
+  font-size: 17px;
+  color: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.responsivePhone{
+  @media (max-width: 568px) {
+  display: none;
+  }
+}

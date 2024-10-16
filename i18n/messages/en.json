@@ -1,0 +1,125 @@
+{
+  "Sidebar": {
+    "about": "About",
+    "projects": "Projects"
+  },
+  "Hero": {
+    "title": "Hola! Soy Hernando",
+    "tagline": "Web Developer",
+    "p1": "Con experiencia en Angular, NodeJS, Python e Ionic he pasado más de 5 años  creando  soluciones técnicas completas y de alto rendimiento",
+    "p2": "He trabajado en diversos roles, desde el desarrollo de front-end , back-end y app develoment, hasta liderar equipos técnicos de proyectos complejos",
+    "p3": ""
+  },
+  "About": {
+    "section": "Conóceme!",
+    "p1": "Soy un desarrollador Full Stack con amplia experiencia en la creación de soluciones técnicas completas y de alto rendimiento. A lo largo de mi carrera, he trabajado en diversos proyectos. Mi objetivo es asegurar que las soluciones cumplan con los más altos estándares de eficiencia y escalabilidad, ajustándose a las necesidades específicas de cada contexto.",
+    "p2": "He asumido varios roles, lo que me ha permitido dominar tanto el front-end como el back-end. Desde la creación de interfaces de usuario intuitivas hasta la optimización del rendimiento de aplicaciones. Esto me ha dado una comprensión integral de los flujos de trabajo y de la interacción entre los distintos componentes del sistema.",
+    "p3": "Además de mis habilidades técnicas, he liderado un equipo en diversos proyectos complejos dentro de una start up. He coordinado esfuerzos para cumplir con los objetivos establecidos, garantizando que el equipo se mantenga alineado con los plazos y las metas técnicas. Mi liderazgo se basa en fomentar una cultura de colaboración y compromiso.",
+    "p4": "Por último, soy muy detallista con la calidad del código y el cumplimiento de los plazos de entrega. Creo que el éxito de un proyecto depende no solo de la ejecución técnica, sino también de una adecuada gestión del tiempo y una atención minuciosa a cada aspecto del desarrollo. Mi enfoque se centra en combinar estos factores para garantizar resultados sobresalientes.",
+    "p5": ""
+  },
+  "Projects": {
+    "section": "Proyectos",
+    "gallery": "Ver más",
+
+    "desc1": "Mencargo es un proyecto ambicioso diseñado para gestionar urbanizaciones privadas, permitiendo el control de entradas y salidas, reservas de áreas comunes, comunicación interna, gestión de tareas, encuestas, y registro de mascotas y vehículos, además de la atención de paquetes y deliveries. Lideré el proyecto como principal desarrollador, enfocándome en las tareas clave. Me uní en su fase final y contribuí significativamente a la migración a Angular y FastAPI.",
+    "modal1": "En este proyecto de una startup, me uní cuando estaba casi terminado, enfocándome en añadir diversas funcionalidades y módulos nuevos. Lideré el equipo gestionando Git, revisando código y orientando a los integrantes. El sistema incluía un backoffice amplio para administradores y una app móvil para residentes y personal, cada uno con funcionalidades personalizadas. Además, podía gestionar múltiples urbanizaciones con características específicas según la contratación. Participé activamente en la migración de Flask y jQuery a Angular y FastAPI, y también fui responsable del despliegue y actualizaciones del proyecto.",
+
+    "desc2": "Cash es un sistema de backoffice complementario a Mencargo que permite gestionar las finanzas de urbanizaciones privadas. Facilita la administración de pagos de propietarios, gastos e ingresos de la comunidad, y la generación de informes financieros, incluyendo gráficos. Además, incluye diferentes pasarelas de pago para facilitar las transacciones. Gestioné este proyecto, contribuyendo en su desarrollo y liderando su migración a nuevas tecnologías para mejorar su funcionalidad y rendimiento.",
+    "modal2": "Durante este proyecto, fui responsable de resolver errores, gestionar la base de datos, desplegar actualizaciones, desarrollar nuevas funcionalidades y mantener la aplicación. Además, lideré el proyecto supervisando el flujo de trabajo en Git y revisando las pull requests. Participé activamente en la migración a nuevas tecnologías, ya que el sistema original estaba desarrollado en Flask y jQuery, y se migró a Angular y FastAPI.",
+
+    "desc3": "Backoffice para controlar a los usuarios que pertenecen a la comunidad árabe en Bolivia. Además, contiene un sistema de puntos y cupones de descuentos con un QR encriptado para las empresas afiliadas.",
+    "modal3": "Este Backoffice está diseñado para gestionar a los usuarios que forman parte de la comunidad árabe en Bolivia. Ha sido desarrollado utilizando Express en el lado del servidor y AngularJS para el frontend, proporcionando una interfaz eficiente y de fácil uso. La funcionalidad principal de este sistema es la cuponera, que genera cupones de descuentos personalizados para cada usuario. Estos cupones incluyen un QR encriptado, lo que asegura que solo las empresas afiliadas puedan escanear y redimir los descuentos de manera segura. Además, el sistema incorpora un esquema de puntos que premia la participación de los usuarios, mejorando la fidelización con las empresas participantes",
+
+    "desc4": "3D Viewer es un portal web interactivo que permite a los usuarios seleccionar asientos en un recinto deportivo mediante un visor 3D realista. Incluye un carrito de compras para gestionar la adquisición de los asientos seleccionados.",
+    "modal4": "3D Viewer es una robusta aplicación web desarrollada en Angular y PrimeNG, centrada en el uso de RxJS, que ofrece una experiencia interactiva en la selección de asientos dentro de un recinto deportivo. Mediante un visor 3D inmersivo, los usuarios pueden visualizar de manera realista el lugar exacto de los asientos seleccionados antes de comprarlos. La aplicación es capaz de funcionar en cualquier equipo simultáneamente, utilizando configuraciones pasadas mediante archivos JSON, lo que permite mostrar diferentes equipos y aplicar reglas específicas según el evento. Además, incluye un carrito de compras para gestionar de manera eficiente la adquisición de múltiples asientos.",
+
+
+    "desc5": "Trabajé como freelance en SAE, una distribuidora farmacéutica, desarrollando landing pages y API's personalizadas para mejorar la eficiencia de sus herramientas internas de distribución.",
+    "modal5": "Trabajé en SAE como freelance, una destacada distribuidora farmacéutica, donde fui responsable de la creación de landing pages y del desarrollo de API's personalizadas para optimizar sus herramientas internas. Estas soluciones estaban orientadas a mejorar la eficiencia en la distribución de productos entre sus diversos clientes..",
+
+    "desc6": "SAE dropbox es una aplicacion web en la cual replica la idea de dropbox para subir/editar/ficheros a su vez crear carpetas para organizarla, navegar entre los ficheros",
+    "modal6": "SAE Dropbox es una aplicación web diseñada para replicar la funcionalidad del conocido servicio de almacenamiento en la nube Dropbox. La plataforma permite a los usuarios subir, editar y gestionar ficheros, así como crear carpetas para organizar de manera eficiente sus archivos. Además, ofrece la posibilidad de navegar fácilmente entre los ficheros, proporcionando una experiencia de usuario sencilla e intuitiva. El principal objetivo de este proyecto fue aprovechar el servicio de Dropbox para su uso masivo en toda la empresa, utilizando una única cuenta de Dropbox compartida. De esta manera, se evita la necesidad de contratar planes premium o superiores de Dropbox, lo que supone un importante ahorro de costos. Gracias a esta solución, la empresa puede utilizar Dropbox de manera centralizada sin tener que preocuparse por las limitaciones asociadas a los diferentes planes de pago. Para la implementación de este proyecto, se utilizó la API de Dropbox para Python, lo que permitió integrar de manera eficiente las funcionalidades clave del servicio en la aplicación. Además, la plataforma cuenta con un sistema de permisos, mediante el cual se pueden gestionar los accesos a las diferentes carpetas en función de roles definidos por el usuario. Estos roles permiten un control más granular sobre qué usuarios pueden acceder, modificar o ver ciertos archivos o carpetas, proporcionando flexibilidad y seguridad en la gestión de la información dentro de la empresa.",
+
+    "desc7": "Este proyecto, hecho en AdonisJS y Vue, valida archivos Excel de eventos deportivos para la venta de asientos, señalando errores en la estructura. Además, permite combinar ficheros y corregir fallos como símbolos incorrectos en los precios.",
+    "modal7": "Este proyecto fue diseñado como una herramienta interna tipo backoffice para gestionar eventos deportivos, en los cuales la empresa vendía asientos. Fue desarrollado en AdonisJS para el backend y Vue para el frontend. Los clientes enviaban archivos Excel con una estructura previamente acordada, que este validador revisaba. Si el formato no se cumplía, el sistema devolvía un mensaje de error indicando la línea y columna del fallo. Además, permitía combinar ficheros y corregir errores comunes, como símbolos incorrectos en los precios.",
+
+    "desc8": "Ventu es un proyecto que lideré como Tech Lead  desde 0 además fui el desarrollador core. Es un backoffice para gestionar eventos e invitados, con una app móvil para que el personal de seguridad escanee un código QR encriptado, permitiendo al invitado acceder a detalles del evento y su invitación QR.",
+    "modal8": "Ventu es un proyecto que lideré como Tech Lead y desarrollador principal. El sistema consiste en un backoffice para la gestión de eventos e invitados, además de contar con una aplicación móvil a través de la cual el equipo de seguridad puede escanear un código QR encriptado. El invitado, a su vez, tiene acceso a más información sobre el evento y su invitación en formato QR. El backend del proyecto está desarrollado en Flask, mientras que el frontend está construido en Angular con PrimeNG. La aplicación móvil fue desarrollada utilizando Ionic basado en Angular, brindando una experiencia nativa y accesible para los usuarios. Uno de los desarrollos core del sistema es la funcionalidad para maquetar invitaciones mediante un sistema drag and drop, lo que permite a los organizadores personalizar fácilmente el nombre del invitado y el código QR de la invitación. Todo el proceso está automatizado y gestionado mediante la integración con un bot de WhatsApp, encargado de enviar la invitación en tiempo real a los asistentes, mejorando la eficiencia en la distribución de invitaciones. Además, el sistema cuenta con un sólido sistema de permisos, que asegura que cada usuario tenga acceso solo a la información y funcionalidades adecuadas según su rol. Fui responsable de desplegar todas las partes del sistema, incluyendo el backend, el frontend y la aplicación móvil, asegurando la correcta integración y funcionamiento de todos los componentes.",
+
+    "desc9": "Este desarrollo fue necesario dentro de la empresa, ya que la empresa no cumplía con los requisitos para usar la API oficial de WhatsApp. Por lo tanto, creamos nuestro propio sistema, capaz de enlazarse con un número de WhatsApp y enviar diferentes tipos de mensajes a los destinatarios deseados de manera masiva mediante una API.",
+    "modal9": "Este desarrollo fue necesario porque la empresa no cumplía con los requisitos para usar la API oficial de WhatsApp. Para solucionar esto, diseñé e implementé por completo un sistema en Express y Puppeteer que se enlaza con un número de WhatsApp y envía mensajes masivos. Este sistema permite mandar textos, audios, imágenes, videos y mensajes con menús interactivos. Además, cuenta con estrategias para evitar que WhatsApp lo detecte como spam, lo que asegura que los mensajes lleguen a los destinatarios de manera eficiente y sin problemas."
+  },
+  "Experience": {
+    "section": "Experiencia",
+    "exp1": "Mobile Media Content",
+    "role1": "Full Stack Developer",
+    "date1": "Marzo 2024 - Octubre 2024",
+    "loca1": "Hibrido",
+    "desc1": "Desarrollador full stack en un equipo ágil. Diseño aplicaciones web escalables utilizando Node.js, Angular y AdonisJS. Desarrollo front-end y back-end, utilizando programación funcional/reactiva utilizando RxJs así como de la integración continua y el despliegue automático en AWS. Colaboré estrechamente con otros equipos utilizando herramientas como Jira .",
+
+    "exp2": "Overscope",
+    "role2": "Tech Lead | Full Stack Developer",
+    "date2": "Febrero 2021 - Febrero 2024",
+    "loca2": "Hibrido",
+    "desc2": "Líder técnico y principal desarrollador, brindando orientación técnica y apoyo. Me he encargado de las revisiones de código y la gestión del control de versiones, garantizando la calidad. También he coordinado la planificación de proyectos, cumpliendo plazos y equilibrando recursos. He resuelto problemas técnicos complejos y desarrollado funcionalidades para aplicaciones web y móviles, tanto en front-end como en back-end. Además, he participado en el desarrollo de landing pages (SPA) y en el diseño de UX/UI, así como en la creación de arquitecturas escalables y robustas. Principal responsable del despliegue de las aplicaciones, tanto web como móviles.",
+
+    "exp3": "Freelance",
+    "role3": "Web Developer",
+    "date3": "Agosto 2019 - Febrero 2021",
+    "loca3": "Remoto",
+    "desc3": "Desarrollo aplicaciones web personalizadas para individuos y pequeñas empresas, entregando diseños receptivos, fáciles de usar y adaptados a sus necesidades. Mis responsabilidades incluyen la optimización del rendimiento del sitio, la creación, el despliegue y el cumplimiento legal adecuado.",
+
+    "exp4": "NexoQA",
+    "role4": "Junior Web Developer",
+    "date4": "Enero 2019 - Julio 2019",
+    "loca4": "Presencial",
+    "desc4": "Como Desarrollador Web Junior, mis funciones incluyen el desarrollo de newsletters, la creación de contenido para las páginas web de la empresa y el desarrollo de landing pages con Single Page Application (SPA), mejorando la experiencia del usuario y la eficiencia de las plataformas."
+
+  },
+  "Certification": {
+    "section": "Estudios",
+    "certificate":"",
+    "certif1": "Grado Superior Desarrollo de Aplicaciones en la Web (DAW)",
+    "school1": "INSTITUTO LA PINEDA (BADALONA",
+    "date1": "2017-2019",
+    "desc1": "En el Grado Superior en Desarrollo de Aplicaciones Web (DAW), aprendí a desarrollar y mantener aplicaciones web, adquiriendo conocimientos tanto de frontend como de backend. Trabajé con tecnologías como HTML, CSS y JavaScript para crear interfaces, y aprendí lenguajes como PHP, C++, Java y Python para implementar la lógica del servidor. También aprendí a gestionar bases de datos como MySQL o MongoDB y a utilizar frameworks como Angular y Laravel, siempre aplicando metodologías ágiles y control de versiones con Git para garantizar un desarrollo eficiente. Además, adquirí un sólido conocimiento en el uso de sistemas operativos basados en Linux, lo que me permite trabajar en entornos de desarrollo robustos y estables.",
+
+    "certif2": "Beca Erasmus (Polonia, Varsovia)",
+    "school2": "Polsko Hiszpańska Izba Gospodarcza(Cámara de comercio Polaca Española)",
+    "date2": "Mayo 2018 – Julio 2018",
+    "desc2": "Beca Erasmus que me permitió trabajar en la Cámara de Comercio Polaco-Española. Durante esta experiencia, tuve la oportunidad de aprender de cerca la cultura empresarial en Polonia y de trabajar junto a profesionales del sector, lo que me aportó una visión más amplia y práctica de los entornos internacionales de trabajo.",
+
+    "certif3": "Certificado de inglés Cambridge nivel B1",
+    "school3": "Universitat de Barcelona",
+    "date3": "2017-2018",
+    "desc3": "",
+
+    "certif4": "",
+    "school4": "",
+    "date4": "",
+    "desc4": "",
+
+    "certif5": "Data Visualization",
+    "school5": "freeCodeCamp",
+    "date5": "January 2024 – 300 hours",
+    "desc5": "Focused on presenting data through charts, graphs, and maps using the D3.js library. Gained skills in working with JSON (JavaScript Object Notation) and integrating data from online sources using APIs. Emphasized practical techniques for visualizing and interpreting data to provide clear insights and context.",
+
+    "certif6": "Relational Database",
+    "school6": "freeCodeCamp",
+    "date6": "January 2024 – 300 hours",
+    "desc6": "Focused on using essential developer tools and software, including VS Code, PostgreSQL, and the Linux/Unix command line. Gained skills in basic Bash commands, file system navigation, and scripting. Developed expertise in creating and managing relational databases with PostgreSQL and SQL. Also learned Git for version control, a crucial tool for collaborative development.",
+
+    "certif7": "Back End Development & APIs",
+    "school7": "freeCodeCamp",
+    "date7": "January 2024 – 300 hours",
+    "desc7": "Focused on using JavaScript for server-side development to build full web applications. Learned to write back-end apps with Node.js and npm, and build web applications using the Express framework. Developed a People Finder microservice with MongoDB and the Mongoose library, emphasizing the microservices architecture for creating modular and scalable applications."
+  },
+
+  "Contact": {
+    "section": "Contacto",
+    "p1": "¿Tienes una idea para discutir? ¡Envíame un correo si quieres conectar! También puedes encontrarme en",
+    "p2": "para mayor velocidad.",
+    "p3": "Set up a meeting"
+  }
+}

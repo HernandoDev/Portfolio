@@ -1,0 +1,121 @@
+{
+  "Sidebar": {
+    "about": "About",
+    "projects": "Projects"
+  },
+  "Hero": {
+    "title": "Hola! Soy Hernando",
+    "tagline": "Web Developer",
+    "p1": "Con experiencia en Angular, NodeJS, Python e Ionic he pasado más de 5 años  creando  soluciones técnicas completas y de alto rendimiento",
+    "p2": "He trabajado en diversos roles, desde el desarrollo de front-end , back-end y app develoment, hasta liderar equipos técnicos de proyectos complejos",
+    "p3": ""
+  },
+  "About": {
+    "section": "Conóceme!",
+    "p1": "Soy un desarrollador Full Stack con amplia experiencia en la creación de soluciones técnicas completas y de alto rendimiento. A lo largo de mi carrera, he trabajado en diversos proyectos. Mi objetivo es asegurar que las soluciones cumplan con los más altos estándares de eficiencia y escalabilidad, ajustándose a las necesidades específicas de cada contexto.",
+    "p2": "He asumido varios roles, lo que me ha permitido dominar tanto el front-end como el back-end. Desde la creación de interfaces de usuario intuitivas hasta la optimización del rendimiento de aplicaciones. Esto me ha dado una comprensión integral de los flujos de trabajo y de la interacción entre los distintos componentes del sistema.",
+    "p3": "Además de mis habilidades técnicas, he liderado un equipo en diversos proyectos complejos dentro de una start up. He coordinado esfuerzos para cumplir con los objetivos establecidos, garantizando que el equipo se mantenga alineado con los plazos y las metas técnicas. Mi liderazgo se basa en fomentar una cultura de colaboración y compromiso.",
+    "p4": "Por último, soy muy detallista con la calidad del código y el cumplimiento de los plazos de entrega. Creo que el éxito de un proyecto depende no solo de la ejecución técnica, sino también de una adecuada gestión del tiempo y una atención minuciosa a cada aspecto del desarrollo. Mi enfoque se centra en combinar estos factores para garantizar resultados sobresalientes.",
+    "p5": ""
+  },
+  "Projects": {
+    "section": "Projects",
+    "gallery": "Full Gallery",
+
+    "desc1": "A clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of Three.js and GSAP for 3D and animations.",
+    "modal1": "This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.",
+
+    "desc2": "Event management platform built on Next.js. This app serves as a hub for showcasing events and features secure payment through Stripe.",
+    "modal2": "Evently is an event management platform, built on Next.js. It serves as a hub for showcasing events, features payment through Stripe, the capability to purchase tickets and manage your own events.",
+
+    "desc3": "Landing page design for a travel agency featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript.",
+    "modal3": "Landing page design for a travel agency featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.",
+
+    "desc4": "Landing page for a sushi restaurant featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript.",
+    "modal4": "Landing page design for a sushi restaurant featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.",
+
+    "desc5": "AI image platform featuring advanced image processing: restoration, recoloring, object removal, generative filling, and background removal.",
+    "modal5": "An AI image SaaS platform with advanced image processing, secure payments and powerful search. Features: restoration, recoloring, object removal, generative filling, and background removal.",
+
+    "desc6": "CarHub presents various car types, showcasing comprehensive information with advanced filtering and pagination support.",
+    "modal6": "CarHub presents various car types, showcasing comprehensive information with advanced filtering and pagination support. Built with Next.js and leveraging its server-side rendering capabilities.",
+
+    "desc7": "3D website powered by Three.js featuring interactive elements. Navigate aboard a small plane and explore a floating island.",
+    "modal7": "This 3D website, built with React and powered by Three.js, features engaging interactive elements. Navigate aboard a small plane to explore a floating island and discover various information. On the contact page, a fox will dynamically react as you fill out the fields!",
+
+    "desc8": "AI platform that enables users to create podcasts with features like text-to-audio conversion, image generation and seamless playback.",
+    "modal8": "A cutting-edge AI SaaS platform that empowers users to create, discover, and enjoy podcasts with advanced features such as text-to-audio conversion using multi-voice AI powered by OpenAI API, podcast thumbnail image generation, and seamless playback. The platform includes secure authentication using Clerk, ensuring a safe and personalized user experience."
+  },
+  "Experience": {
+    "section": "Experiencia",
+    "exp1": "Mobile Media Content",
+    "role1": "Full Stack Developer",
+    "date1": "Marzo 2024 - Octubre 2024",
+    "loca1": "Hibrido",
+    "desc1": "Desarrollador full stack en un equipo ágil. Diseño aplicaciones web escalables utilizando Node.js, Angular y AdonisJS. Desarrollo front-end y back-end, utilizando programación funcional/reactiva utilizando RxJs así como de la integración continua y el despliegue automático en AWS. Colaboré estrechamente con otros equipos utilizando herramientas como Jira .",
+
+    "exp2": "Overscope",
+    "role2": "Tech Lead | Full Stack Developer",
+    "date2": "Febrero 2021 - Febrero 2024",
+    "loca2": "Hibrido",
+    "desc2": "Líder técnico y principal desarrollador, brindando orientación técnica y apoyo. Me he encargado de las revisiones de código y la gestión del control de versiones, garantizando la calidad. También he coordinado la planificación de proyectos, cumpliendo plazos y equilibrando recursos. He resuelto problemas técnicos complejos y desarrollado funcionalidades para aplicaciones web y móviles, tanto en front-end como en back-end. Además, he participado en el desarrollo de landing pages (SPA) y en el diseño de UX/UI, así como en la creación de arquitecturas escalables y robustas. Principal responsable del despliegue de las aplicaciones, tanto web como móviles.",
+
+    "exp3": "Freelance",
+    "role3": "Web Developer",
+    "date3": "Agosto 2019 - Febrero 2021",
+    "loca3": "Remoto",
+    "desc3": "Desarrollo aplicaciones web personalizadas para individuos y pequeñas empresas, entregando diseños receptivos, fáciles de usar y adaptados a sus necesidades. Mis responsabilidades incluyen la optimización del rendimiento del sitio, la creación, el despliegue y el cumplimiento legal adecuado.",
+
+    "exp4": "NexoQA",
+    "role4": "Junior Web Developer",
+    "date4": "Enero 2019 - Julio 2019",
+    "loca4": "Presencial",
+    "desc4": "Como Desarrollador Web Junior, mis funciones incluyen el desarrollo de newsletters, la creación de contenido para las páginas web de la empresa y el desarrollo de landing pages con Single Page Application (SPA), mejorando la experiencia del usuario y la eficiencia de las plataformas."
+
+  },
+  "Certification": {
+    "section": "Estudios",
+    "certificate":"",
+    "certif1": "Grado Superior Desarrollo de Aplicaciones en la Web (DAW)",
+    "school1": "INSTITUTO LA PINEDA (BADALONA",
+    "date1": "2017-2019",
+    "desc1": "En el Grado Superior en Desarrollo de Aplicaciones Web (DAW), aprendí a desarrollar y mantener aplicaciones web, adquiriendo conocimientos tanto de frontend como de backend. Trabajé con tecnologías como HTML, CSS y JavaScript para crear interfaces, y aprendí lenguajes como PHP, C++, Java y Python para implementar la lógica del servidor. También aprendí a gestionar bases de datos como MySQL o MongoDB y a utilizar frameworks como Angular y Laravel, siempre aplicando metodologías ágiles y control de versiones con Git para garantizar un desarrollo eficiente. Además, adquirí un sólido conocimiento en el uso de sistemas operativos basados en Linux, lo que me permite trabajar en entornos de desarrollo robustos y estables.",
+
+    "certif2": "Beca Erasmus (Polonia, Varsovia)",
+    "school2": "Polsko Hiszpańska Izba Gospodarcza(Cámara de comercio Polaca Española)",
+    "date2": "Mayo 2018 – Julio 2018",
+    "desc2": "Beca Erasmus que me permitió trabajar en la Cámara de Comercio Polaco-Española. Durante esta experiencia, tuve la oportunidad de aprender de cerca la cultura empresarial en Polonia y de trabajar junto a profesionales del sector, lo que me aportó una visión más amplia y práctica de los entornos internacionales de trabajo.",
+
+    "certif3": "Certificado de inglés Cambridge nivel B1",
+    "school3": "Universitat de Barcelona",
+    "date3": "2017-2018",
+    "desc3": "",
+
+    "certif4": "",
+    "school4": "",
+    "date4": "",
+    "desc4": "",
+
+    "certif5": "Data Visualization",
+    "school5": "freeCodeCamp",
+    "date5": "January 2024 – 300 hours",
+    "desc5": "Focused on presenting data through charts, graphs, and maps using the D3.js library. Gained skills in working with JSON (JavaScript Object Notation) and integrating data from online sources using APIs. Emphasized practical techniques for visualizing and interpreting data to provide clear insights and context.",
+
+    "certif6": "Relational Database",
+    "school6": "freeCodeCamp",
+    "date6": "January 2024 – 300 hours",
+    "desc6": "Focused on using essential developer tools and software, including VS Code, PostgreSQL, and the Linux/Unix command line. Gained skills in basic Bash commands, file system navigation, and scripting. Developed expertise in creating and managing relational databases with PostgreSQL and SQL. Also learned Git for version control, a crucial tool for collaborative development.",
+
+    "certif7": "Back End Development & APIs",
+    "school7": "freeCodeCamp",
+    "date7": "January 2024 – 300 hours",
+    "desc7": "Focused on using JavaScript for server-side development to build full web applications. Learned to write back-end apps with Node.js and npm, and build web applications using the Express framework. Developed a People Finder microservice with MongoDB and the Mongoose library, emphasizing the microservices architecture for creating modular and scalable applications."
+  },
+
+  "Contact": {
+    "section": "Contacto",
+    "p1": "¿Tienes una idea para discutir? ¡Envíame un correo si quieres conectar! También puedes encontrarme en",
+    "p2": "para mayor velocidad.",
+    "p3": "Set up a meeting"
+  }
+}
